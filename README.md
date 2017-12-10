@@ -55,10 +55,10 @@ Content in the first column | Content in the second column
 
 ## Codes
 
-''' python
+```python
 if a == 1:
     print(a)
-'''
+```
 
 ## Task list
 
@@ -66,3 +66,6 @@ if a == 1:
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+## emoji
+  This dish is super delicious:+1:
