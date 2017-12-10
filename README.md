@@ -46,7 +46,14 @@ Content in the first column | Content in the second column
 
 ## Codes
 
-'''python
+''' python
 if a == 1:
     print(a)
 '''
+
+##Task list
+
+- [x] @mentions, #refs, [links](www.baidu.com), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
