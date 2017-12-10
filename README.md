@@ -1,7 +1,8 @@
 # hello-world
 
 Hello, this is a tutorial for github.
-just another repositry
+
+Just another repositry
 
 # markdown
 
@@ -38,6 +39,14 @@ As Kanye West said:
 Use `git status` to list all new or modified files that haven't yet been committed.
 
 
+Use `git status` to list all new or modified files that haven't yet been committed.
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
 
 ## Tables
 
@@ -53,7 +62,7 @@ if a == 1:
     print(a)
 '''
 
-##Task list
+## Task list
 
 - [x] @mentions, #refs, [github](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
